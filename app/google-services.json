@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1096483022261",
+    "firebase_url": "https://fir-projectstudyenglish-76c3a-default-rtdb.firebaseio.com",
+    "project_id": "fir-projectstudyenglish-76c3a",
+    "storage_bucket": "fir-projectstudyenglish-76c3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096483022261:android:73eafd475a4e2bdf4565fc",
+        "android_client_info": {
+          "package_name": "hmd.example.firebaseprojectstudyenglish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRrhPBlGkm3k1EKo47JIwJMkzUgVT7VEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
