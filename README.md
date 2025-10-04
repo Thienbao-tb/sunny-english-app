@@ -6,7 +6,12 @@ A comprehensive mobile application designed to support TOEIC and IELTS test prep
 
 ## 📸 Screenshots
 
-| ![Home Screen](./screenshots/home.jpg) | ![Vocabulary](./screenshots/vocabulary.jpg) | ![Multiple Choice](./screenshots/multiple_choice.jpg) |
+<p align="center">
+  <img src="./screenshots/home.jpg" width="250" alt="Home Screen"/>
+  <img src="./screenshots/vocabulary.jpg" width="250" alt="Vocabulary"/>
+  <img src="./screenshots/tracnghiem.jpg" width="250" alt="Multiple Choice"/>
+  <img src="./screenshots/sapxep.jpg" width="250" alt="Sentence Arrangement"/>
+</p>
 
 
 ---
